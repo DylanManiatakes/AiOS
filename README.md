@@ -17,4 +17,4 @@ Key features:
 
 By leveraging recent advances in language model capabilities, AiOS hopes to pioneer a new paradigm in operating system UX centered around conversational AI. The goal is to reduce the need for traditional GUI navigation and typing in favor of more intuitive voice-based interactions.
 
-d
+d# AiOS
